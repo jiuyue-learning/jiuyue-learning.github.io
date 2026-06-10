@@ -2,3 +2,4 @@ title: Jiuyue's SEO Learning Notes
 description: Learning SEO out loud — writing things down to figure them out.
 url: "https://jiuyue-learning.github.io"
 theme: minima
+permalink: /:title/
